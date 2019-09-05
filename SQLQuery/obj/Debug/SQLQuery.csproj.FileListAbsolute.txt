@@ -1,0 +1,6 @@
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day4\SQLProject\SQLQuery\obj\Debug\SQLQuery.csprojAssemblyReference.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day4\SQLProject\SQLQuery\obj\Debug\SQLQuery.csproj.CoreCompileInputs.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day4\SQLProject\SQLQuery\bin\Debug\SQLQuery.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day4\SQLProject\SQLQuery\bin\Debug\SQLQuery.pdb
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day4\SQLProject\SQLQuery\obj\Debug\SQLQuery.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day4\SQLProject\SQLQuery\obj\Debug\SQLQuery.pdb
