@@ -5,6 +5,3 @@ C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day4\
 C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day4\SQLProject\SQLProject\obj\Debug\SQLProject.csproj.CoreCompileInputs.cache
 C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day4\SQLProject\SQLProject\obj\Debug\SQLProject.exe
 C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day4\SQLProject\SQLProject\obj\Debug\SQLProject.pdb
-C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day4\SQLProject\SQLProject\bin\Debug\SQLQuery.dll
-C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day4\SQLProject\SQLProject\bin\Debug\SQLQuery.pdb
-C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week4\Day4\SQLProject\SQLProject\obj\Debug\SQLProject.csproj.CopyComplete

@@ -49,11 +49,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\SQLQuery\SQLQuery.csproj">
-      <Project>{d4db501e-5fe9-488f-9761-ef71e0a279e2}</Project>
-      <Name>SQLQuery</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
