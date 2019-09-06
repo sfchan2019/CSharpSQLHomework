@@ -117,7 +117,6 @@ namespace SQLProject
             }
         }
 
-        //Return sql state or query result
         public void RunSQL(string sqlStatment, out List<string> result)
         {
             result = null;
@@ -126,7 +125,6 @@ namespace SQLProject
             try
             {
                 sqlConn.Open();
-                result.Add(sqlConn.State.ToString());
                 SqlCommand selectCommand = new SqlCommand(sqlStatment, sqlConn);
                 SqlDataReader reader = selectCommand.ExecuteReader();
 
